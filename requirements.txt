@@ -1,0 +1,9 @@
+Flask
+Flask_SQLAlchemy
+psycopg2-binary
+playwright
+APScheduler
+requests
+python-dotenv
+twilio
+pillow
